@@ -1,4 +1,4 @@
-# Run cmd - Custom-menu
+# Windows Run cmd - Custom-menu
 Komodo userscripts for running windows cmd inside komodo
 
 ## Screenshots
